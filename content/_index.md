@@ -1,5 +1,5 @@
 ---
-title: 'buy.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'buy.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 buy.com is under construction."
 ---
 
